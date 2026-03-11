@@ -4,6 +4,8 @@ Welcome to the **Global Industry Growth Tracker** — an experimental repository
 
 This project aims to organize **industry growth signals, market trends, and sector insights** in a structured format that analysts, researchers, and strategy teams can easily explore.
 
+https://github.com/user-attachments/assets/29e5de50-fd77-443e-80b5-682a89a57182
+
 ---
 
 ## 📊 Industries We Explore
@@ -58,7 +60,7 @@ This repository is currently in **early development** and will continue expandin
 ⭐ If you find this interesting, feel free to **star the repository** and follow for updates.
 
 
-https://github.com/user-attachments/assets/29e5de50-fd77-443e-80b5-682a89a57182
+
 
 
 

@@ -1,8 +1,8 @@
 # 🌍 Global Industry Growth Tracker
 
-Welcome to the **Global Industry Growth Tracker** — an experimental repository exploring insights, datasets, and trends across emerging global industries.
+Welcome to the **Global Industry Growth Tracker of Ken Research** — an experimental repository exploring insights, datasets, and trends across emerging global industries.
 
-This project aims to organize **industry growth signals, market trends, and sector insights** in a structured format that analysts, researchers, and strategy teams can easily explore.
+This Ken Research project aims to organize **industry growth signals, market trends, and sector insights** in a structured format that analysts, researchers, and strategy teams can easily explore.
 
 ![Video-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1df50c49-9648-45a9-9c8c-64499cae14a4)
 

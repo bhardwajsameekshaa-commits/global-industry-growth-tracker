@@ -1,2 +1,58 @@
-# global-industry-growth-tracker
-Interactive datasets and insights on global industry growth, market size and CAGR forecasts across sectors.
+# 🌍 Global Industry Growth Tracker
+
+Welcome to the **Global Industry Growth Tracker** — an experimental repository exploring insights, datasets, and trends across emerging global industries.
+
+This project aims to organize **industry growth signals, market trends, and sector insights** in a structured format that analysts, researchers, and strategy teams can easily explore.
+
+---
+
+## 📊 Industries We Explore
+
+- Artificial Intelligence (AI)
+- Electric Vehicles (EV)
+- Renewable Energy
+- Healthcare Technology
+- Fintech
+- Emerging Digital Industries
+
+---
+
+## 📈 What This Repository Contains
+
+This repository will gradually include:
+
+• Sample datasets on industry growth trends  
+• Visual charts and insights  
+• Market intelligence notes  
+• Experimental data analysis projects  
+
+The goal is to experiment with **data-driven approaches to market intelligence.**
+
+---
+
+## Who May Find This Useful
+
+- Market Research Analysts  
+- Data Analysts  
+- Business Strategists  
+- Startup Founders  
+- Investors  
+- Industry Researchers  
+
+---
+
+## Source of Inspiration
+
+Industry insights and research inspiration from:
+
+https://www.kenresearch.com
+
+---
+
+## Project Status
+
+This repository is currently in **early development** and will continue expanding with datasets and industry insights.
+
+---
+
+⭐ If you find this interesting, feel free to **star the repository** and follow for updates.

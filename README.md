@@ -45,7 +45,7 @@ The goal is to experiment with **data-driven approaches to market intelligence.*
 
 Industry insights and research inspiration from:
 
-https://www.kenresearch.com
+[https://www.kenresearch.com](https://www.kenresearch.com/?utm_source=GitHub&utm_medium=referral&utm_campaign=sameeksha)
 
 ---
 

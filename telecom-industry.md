@@ -26,7 +26,7 @@ This repository highlights key trends, growth drivers, and market opportunities 
 
 ---
 
-## 🇮🇳 India Telecom Market Insight
+## India Telecom Market Insight
 
 India is one of the fastest-growing telecom markets due to high smartphone penetration and increasing data consumption.
 

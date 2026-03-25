@@ -77,8 +77,8 @@ This file covers:
 
 ## 🔗 Related Insights
 
-- Telecom Industry Trends → telecom-industry.md(https://github.com/bhardwajsameekshaa-commits/global-industry-growth-tracker/blob/main/telecom-industry.md)  
-- Oil & Gas Market Insights → oil-gas-market.md(https://github.com/bhardwajsameekshaa-commits/global-industry-growth-tracker/blob/main/oil-gas-market.md)  
+- Telecom Industry Trends → [telecom-industry.md](https://github.com/bhardwajsameekshaa-commits/global-industry-growth-tracker/blob/main/telecom-industry.md)  
+- Oil & Gas Market Insights → [oil-gas-market.md](https://github.com/bhardwajsameekshaa-commits/global-industry-growth-tracker/blob/main/oil-gas-market.md)  
 
 ---
 

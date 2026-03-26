@@ -92,4 +92,4 @@ This repository is continuously updated with new insights and trends.
 
 ---
 
-⭐ *Follow for more industry insights and updates.*
+⭐ *Explore detailed industry growth insights and get customized reports at Ken Research*

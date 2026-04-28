@@ -80,9 +80,9 @@ This repository helps in:
 
 For more detailed sector-specific insights:
 
-- Telecom Industry Report → (ADD-LINK-HERE)  
-- Drone Market Analysis → (ADD-LINK-HERE)  
-- APAC Paint & Coatings Market → (ADD-LINK-HERE)  
+- Telecom Industry Report → (https://github.com/bhardwajsameekshaa-commits/global-industry-growth-tracker/blob/main/telecom-industry.md)  
+- Drone Market Analysis → (https://github.com/bhardwajsameekshaa-commits/global-industry-growth-tracker/blob/main/drone-market-growth-analysis.md)  
+- APAC Paint & Coatings Market → (https://github.com/bhardwajsameekshaa-commits/global-industry-growth-tracker/blob/main/apac-paint-coatings-market.md)  
 
 ---
 
